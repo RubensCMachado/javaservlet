@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Cliente cadastrado com sucesso!</h1>
-<a href="testejstl2.jsp">Listar</a>
+<h1>Teste primeira regra fake</h1>
 </body>
 </html>
